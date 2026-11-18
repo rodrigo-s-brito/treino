@@ -1,0 +1,1 @@
+import{Ct as e,xt as t}from"./formato-B-RKf_Kj.js";var n=`__root__`,r=e(t(),1),i=r.createContext(void 0),a=r.createContext(void 0);export{i as n,n as r,a as t};

@@ -1,0 +1,1 @@
+var e=class extends Error{constructor(e){super(e),this.name=`AppError`}};function t(t,n){return t instanceof e?t.message:(console.error(t),n)}export{t as n,e as t};
